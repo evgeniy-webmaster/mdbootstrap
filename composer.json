@@ -1,0 +1,24 @@
+{
+  "name": "evgeniy-webmaster/mdbootstrap",
+  "description": "Material Design theme for Bootstrap 3",
+  "version": "0.5.10",
+  "type": "bower-asset",
+  "keywords": [
+    "material",
+    "design",
+    "bootstrap",
+    "css",
+    "js",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://github.com/FezVrasta/bootstrap-material-design",
+  "license": "MIT",
+  "authors": [{
+    "name": "Federico Zivolo"
+  }]
+}
